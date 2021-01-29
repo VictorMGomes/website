@@ -11,8 +11,9 @@
     font-size: medium;
 }
 .menu{
-    padding: 25px 25px; 
-    float: right;
+    padding: 25px 25px 0 25px; 
+    text-align: right;
+    position: relative;
 }
 .menu li{
     display: inline-block;
@@ -28,7 +29,8 @@
     text-transform: uppercase;
 }
 .logo{
-    padding: 20px 0px 0px 30px;
+    padding: 20px 0px 0px 20px;
+    text-align: left;
     position: absolute;
 }
 
