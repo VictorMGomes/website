@@ -1,0 +1,16 @@
+/*
+Responsive CSS for main.css file
+*/
+@media screen and (max-width: 550px){
+    .navbar{
+        height: 150px;
+    }
+    .menu{
+        padding: 100px 0px 0px 0px; 
+    }
+    .logo{
+        padding: 30px 0 0 30px;
+        position: absolute;
+    }
+
+}
