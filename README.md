@@ -1,2 +1,2 @@
 # website
-Website desenvolvido com HTML e CSS puro.
+A personal Website made with pure HTML and CSS.
