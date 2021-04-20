@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: assets .git
+Disallow: assets .git README.md

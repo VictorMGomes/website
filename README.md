@@ -1,2 +1,2 @@
 # website
-A personal Website made with pure HTML and CSS.
+A personal Website made with vanilla JS, HTML5 and no CSS libs.
