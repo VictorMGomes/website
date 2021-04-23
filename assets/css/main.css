@@ -101,12 +101,11 @@
 }
 .skills-title{
 	text-align: center;
-	padding: 50px 0 10px 0;
+	padding: 80px 0 10px 0;
 	text-transform: uppercase;
 }
 .skills-title h2{
 	color: rgb(8, 135, 167);
-	font-stretch: condensed;
 }
 
 .stack-card {
