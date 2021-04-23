@@ -58,7 +58,7 @@
 .hero img {
 	height: 150px;
 	border-radius: 50%;
-	border: solid 2px rgb(90, 209, 126);
+	border: solid 2px #1279ea;
 }
 
 .hero h1 {
@@ -98,6 +98,15 @@
 	height: auto;
 	width: 100%;
 	text-align: center;
+}
+.skills-title{
+	text-align: center;
+	padding: 40px 0 10px 0;
+	text-transform: uppercase;
+}
+.skills-title h2{
+	color: #1279ea;
+	font-stretch: condensed;
 }
 
 .stack-card {
